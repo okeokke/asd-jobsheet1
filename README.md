@@ -55,6 +55,9 @@ c. Menampilkan jadwal kuliah berdasarkan hari tertentu
 d. Menampilkan jadwal kuliah berdasarkan nama mata kuliah tertentu
   
 Jawaban :   
+[File Java Tugas 2 | pASD_J1T2.java](pASD_J1T2.java)\
+Contoh output (video youtube)(klik gambar)\
+[![Contoh Output Tugas 1](https://img.youtube.com/vi/rbtVTVI2JaM/hqdefault.jpg)](https://www.youtube.com/watch?v=rbtVTVI2JaM)
 
 
 ---  
