@@ -112,7 +112,8 @@ Contoh 2: Input NIM: 2541720120 maka n=20 Output: `* 2 # 4 * # * 8 # * # * 14 16
 [Kembali ke #Daftar_Percobaan](#daftar_percobaan-1)
 
 ### Jawaban
-
+[File Java Percobaan/Latihan 2 | pASD_J1L2.java](pASD_J1L2.java)
+  ![Percobaan 2](P2N0.png)
 
 [Kembali ke #Daftar_Percobaan](#daftar_percobaan-1)
 
