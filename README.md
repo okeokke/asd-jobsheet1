@@ -31,8 +31,10 @@ Ketika pengguna memberikan input kode plat nomor maka program akan mengeluarkan 
 +---+   +---+---+---+---+---+---+---+---+---+---+---+---+---+---+
 ```
 
-Jawaban :   
-
+Jawaban :  
+[File Java Tugas 1 | pASD_J1T1.java](pASD_J1T1.java)  
+Contoh output :  
+![alt text](T1.png)
 ---  
 
 ### TUGAS 2    
