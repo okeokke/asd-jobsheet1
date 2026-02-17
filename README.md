@@ -138,7 +138,8 @@ Input dari program berupa **nama mata kuliah**, **bobot SKS**, serta **nilai hur
 [Kembali ke #Daftar_Percobaan](#daftar_percobaan-1)
 
 ### Jawaban
-
+  [File Java Percobaan/Latihan 3 (Array) | pASD_J1L3.java](pASD_J1L3.java)
+  ![Percobaan 3](P3N0.png)
   
 [Kembali ke #Daftar_Percobaan](#daftar_percobaan-1)
 
