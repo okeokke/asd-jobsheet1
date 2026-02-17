@@ -85,12 +85,11 @@ Jawaban :
 Jika Nilai Huruf yang didapatkan adalah A, B+, B, C+, C maka LULUS, jika nilai huruf D dan E maka TIDAK LULUS.
 ![alt text](P1_Soal.png)
    
-  
 [Kembali ke #Daftar_Percobaan](#daftar_percobaan-1)
 
 ### Jawaban
-
-  
+[File Java Percobaan/Latihan 1 | pASD_J1L1](pASD_J1L1.java)
+  ![Percobaan 1](P1N0.png)
   [Kembali ke #Daftar_Percobaan](#daftar_percobaan-1)
 
 ---
@@ -126,7 +125,7 @@ Contoh 2: Input NIM: 2541720120 maka n=20 Output: `* 2 # 4 * # * 8 # * # * 14 16
 ### Pertanyaan
 1. Buatlah program untuk menghitung IP Semester dari mata kuliah yang Anda tempuh semester lalu. Formula untuk menghitung IP semester sebagai berikut:  
 `IP Semester = Σ (Nilai Setara * bobot SKS) / Σ SKS`  
-Nilai setara didapatkan dari tabel konversi berikut ini.
+Nilai setara didapatkan dari tabel konversi berikut ini.  
 ![alt text](P1_Soal.png)
 Input dari program berupa **nama mata kuliah**, **bobot SKS**, serta **nilai huruf** dari mata kuliah tersebut.
 
