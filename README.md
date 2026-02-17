@@ -88,7 +88,7 @@ Jika Nilai Huruf yang didapatkan adalah A, B+, B, C+, C maka LULUS, jika nilai h
 [Kembali ke #Daftar_Percobaan](#daftar_percobaan-1)
 
 ### Jawaban
-[File Java Percobaan/Latihan 1 | pASD_J1L1](pASD_J1L1.java)
+[File Java Percobaan/Latihan 1 (Pemilihan) | pASD_J1L1](pASD_J1L1.java)
   ![Percobaan 1](P1N0.png)
   [Kembali ke #Daftar_Percobaan](#daftar_percobaan-1)
 
@@ -112,7 +112,7 @@ Contoh 2: Input NIM: 2541720120 maka n=20 Output: `* 2 # 4 * # * 8 # * # * 14 16
 [Kembali ke #Daftar_Percobaan](#daftar_percobaan-1)
 
 ### Jawaban
-[File Java Percobaan/Latihan 2 | pASD_J1L2.java](pASD_J1L2.java)
+[File Java Percobaan/Latihan 2 (Perulangan) | pASD_J1L2.java](pASD_J1L2.java)
   ![Percobaan 2](P2N0.png)
 
 [Kembali ke #Daftar_Percobaan](#daftar_percobaan-1)
@@ -155,7 +155,9 @@ b. Jika pendapatan ≤ Rp1.500.000, status “Perlu Evaluasi”.
 [Kembali ke #Daftar_Percobaan](#daftar_percobaan-1)
 
 ### Jawaban
-  
+  [File Java Percobaan/Latihan 4 (Fungsi) | pASD_J1L4.java](pASD_J1L4.java)
+  ![Percobaan 4](P4N0.png)
+
 [Kembali ke #Daftar_Percobaan](#daftar_percobaan-1)
 
 ---
